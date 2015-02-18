@@ -1,0 +1,137 @@
+[
+
+	{
+		"name": "Homeland",
+		"weekday": {
+			"dayname":"Sunday", 
+			"dayid":1
+		}
+	},
+	{
+		"name": "Revenge",
+		"weekday": {
+			"dayname":"Sunday", 
+			"dayid":1
+		}
+	},
+	{
+		"name": "Madam Secretary",
+		"weekday": {
+			"dayname":"Sunday", 
+			"dayid":1
+		}
+	},
+	{
+		"name": "The Good Wife",
+		"weekday": {
+			"dayname":"Sunday", 
+			"dayid":1
+		}
+	},
+	{
+		"name":"The Originals",
+		"weekday": {
+			"dayname":"Monday", 
+			"dayid":2 
+		}
+	},
+	{
+		"name":"Bitten",
+		"weekday": {
+			"dayname":"Monday", 
+			"dayid":2 
+		}
+	},
+	{
+		"name":"Scorpion",
+		"weekday": {
+			"dayname":"Monday", 
+			"dayid":2 
+		}
+	},
+	{
+		"name":"Castle",
+		"weekday": {
+			"dayname":"Monday", 
+			"dayid":2 
+		}
+	},
+	{
+		"name": "Pretty Little Liars",
+		"weekday": {
+			"dayname":"Tuesday", 
+			"dayid":3 
+		}
+	},
+	{
+		"name": "The Flash",
+		"weekday": {
+			"dayname":"Tuesday", 
+			"dayid":3 
+		}
+	},
+	{
+		"name": "Marvel's Agent of Shield",
+		"weekday": {
+			"dayname":"Tuesday", 
+			"dayid":3 
+		}
+	},
+	{
+		"name": "Marvel's Agent Carter",
+		"weekday": {
+			"dayname":"Tuesday", 
+			"dayid":3 
+		}
+	},
+	{
+		"name": "Arrow",
+		"weekday": {
+			"dayname":"Wednesday", 
+			"dayid":4 
+		}
+	},
+	{
+		"name": "Law & Order: SVU",
+		"weekday": {
+			"dayname":"Wednesday", 
+			"dayid":4 
+		}
+	},
+	{
+		"name": "Stalker",
+		"weekday": {
+			"dayname":"Wednesday", 
+			"dayid":4 
+		}
+	},
+	{
+		"name": "Criminal Minds",
+		"weekday": {
+			"dayname":"Wednesday", 
+			"dayid":4 
+		}
+	},
+	{
+		"name": "Bones",
+		"weekday": {
+			"dayname":"Thursday", 
+			"dayid":5
+		}
+	},
+	{
+		"name": "How to get away with murder",
+		"weekday": {
+			"dayname":"Thursday", 
+			"dayid":5
+		}
+	},
+	{
+		"name": "Grimm",
+		"weekday": {
+			"dayname":"Friday", 
+			"dayid":6
+		}
+	}
+
+]
